@@ -1,0 +1,16 @@
+C:\code\Katas\Bowling\Bowling\bin\Debug\net5.0\Bowling.exe
+C:\code\Katas\Bowling\Bowling\bin\Debug\net5.0\Bowling.deps.json
+C:\code\Katas\Bowling\Bowling\bin\Debug\net5.0\Bowling.runtimeconfig.json
+C:\code\Katas\Bowling\Bowling\bin\Debug\net5.0\Bowling.runtimeconfig.dev.json
+C:\code\Katas\Bowling\Bowling\bin\Debug\net5.0\Bowling.dll
+C:\code\Katas\Bowling\Bowling\bin\Debug\net5.0\ref\Bowling.dll
+C:\code\Katas\Bowling\Bowling\bin\Debug\net5.0\Bowling.pdb
+C:\code\Katas\Bowling\Bowling\obj\Debug\net5.0\Bowling.csprojAssemblyReference.cache
+C:\code\Katas\Bowling\Bowling\obj\Debug\net5.0\Bowling.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Katas\Bowling\Bowling\obj\Debug\net5.0\Bowling.AssemblyInfoInputs.cache
+C:\code\Katas\Bowling\Bowling\obj\Debug\net5.0\Bowling.AssemblyInfo.cs
+C:\code\Katas\Bowling\Bowling\obj\Debug\net5.0\Bowling.csproj.CoreCompileInputs.cache
+C:\code\Katas\Bowling\Bowling\obj\Debug\net5.0\Bowling.dll
+C:\code\Katas\Bowling\Bowling\obj\Debug\net5.0\ref\Bowling.dll
+C:\code\Katas\Bowling\Bowling\obj\Debug\net5.0\Bowling.pdb
+C:\code\Katas\Bowling\Bowling\obj\Debug\net5.0\Bowling.genruntimeconfig.cache
